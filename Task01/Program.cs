@@ -26,3 +26,6 @@ if (numX > 0 & numY < 0)
 {
     Console.WriteLine("4 section");
 }
+else{
+    Console.WriteLine("0 section");   
+}
